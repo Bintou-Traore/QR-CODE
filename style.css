@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
- 
-
-/* --------------------------------------------- */
+ /* --------------------------------------------- */
 /* VARIABLES                                     */
 /* --------------------------------------------- */
 
@@ -60,8 +57,7 @@ body{
 }
 
 img {
-    max-width: 100%;
-    height:auto;
+   
     border-radius: 0.675rem;
 }
 
